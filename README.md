@@ -3,6 +3,7 @@
  Atualmente estou trabalhando em uma fábrica de vestuário. Estou cursando Análise e Desenvolvimento de Sistemas, estou em busca de uma oportunidade para me aperfeiçoar o que estou apredendo e evoluir profissionalmente na área da Tecnologia. 
 
  ### Contato
+</br>
  <a href="https://www.linkedin.com/in/kaique-de-sousa-mendonca" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:contato@kaiquesousa220@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
