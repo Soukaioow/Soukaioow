@@ -1,4 +1,4 @@
-## Olá me chamo kaique tenho 20 anos, sou natural do Ceará, mas atualmente moro em Blumenau SC
+# Olá me chamo kaique tenho 20 anos, sou natural do Ceará, mas atualmente moro em Blumenau SC
  Iniciei minha trajetória profissional em uma rede de supermercados, onde desenvolvi o atendimento ao público, trabalho em equipe, pontualidade e disciplina.
  Atualmente estou trabalhando em uma fábrica de vestuário. Estou cursando Análise e Desenvolvimento de Sistemas, estou em busca de uma oportunidade para me aperfeiçoar o que estou apredendo e evoluir profissionalmente na área da Tecnologia. 
 
